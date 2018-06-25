@@ -1,2 +1,2 @@
 # MKWS
-Projekt 1 MKWS
+Projekty z MKWS
